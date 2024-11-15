@@ -1,0 +1,5 @@
+shravya kedilaya
+bank loan
+2000
+interest 20%
+time 5years
